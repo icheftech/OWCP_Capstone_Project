@@ -124,7 +124,7 @@ Frontend Dev	TBD	UX & patient portal interface
 Compliance Lead	Guardian Agent	Security, audit, ethical reviews
 🚀 Getting Started (Dev)
 # clone repo
-git clone https://github.com/YOUR-USER/fredmed-capstone.git
+git clone https://github.com/icheftech/OWCP_Capstone_Project.git
 cd fredmed-capstone
 
 # run backend + db
