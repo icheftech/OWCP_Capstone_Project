@@ -137,7 +137,7 @@ Web: http://localhost:3000
 🧾 License
 
 Educational Use Only — No PHI.
-MIT License © 2025 Leroy Brown / FredMed LLC.
+MIT License © 2025 ChefEL33 / FredMed LLC.
 
 ---
 
