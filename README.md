@@ -159,3 +159,7 @@ Each record simulates realistic case features, including injury type, agency, ap
 **Usage Notice:**  
 This dataset is for **academic and research demonstration only**.  
 It is not to be used in live medical, diagnostic, or administrative decision systems without formal HIPAA and BAA compliance audits.
+
+> 💡 Tip: If you only need to explore the data pipeline (not the full app),
+> just open `/notebooks/owcp_eda.ipynb` in Google Colab.
+
