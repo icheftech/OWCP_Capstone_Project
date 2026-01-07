@@ -163,3 +163,26 @@ It is not to be used in live medical, diagnostic, or administrative decision sys
 > 💡 Tip: If you only need to explore the data pipeline (not the full app),
 > just open `/notebooks/owcp_eda.ipynb` in Google Colab.
 
+
+
+---
+
+## 🎨 UI/UX Design
+
+### FredMed Patient Care Portal Dashboard
+
+Comprehensive UI design for the OWCP Patient Care Portal created with Figma Make.
+
+**Figma Make Project:** [OWCP Patient Care Portal Dashboard](https://www.figma.com/make/3jKn9pW39p4LXRZjpAdKSY/OWCP-Patient-Care-Portal-Dashboard)
+
+**Features:**
+- 🏥 Landing page with FredMed branding and agent overview
+- 📊 Provider dashboard with compliance tracking and analytics
+- 🤖 8 AI Agent modules (NAVA, SCHEDULUS, DOCSCRIBE, TELEHUB, IMAGUS, GUARDIAN, SKOOLMAESTRO, INSIGHTS)
+- 📱 Responsive design for desktop and mobile
+- 🔒 HIPAA-compliant design patterns with role-based access controls
+- 🎨 Professional medical AI aesthetic with teal/cyan color scheme
+- 📈 Data visualization components for patient timelines and compliance metrics
+
+**Generated Code:**
+The Figma Make project includes React/TypeScript components ready for implementation in the frontend.
